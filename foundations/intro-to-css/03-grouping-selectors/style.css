@@ -1,13 +1,13 @@
 /* Add CSS Styling */
 
-.one {
+.btn-one {
     background-color: black;
     color: white;
 }
-.two {
+.btn-two {
     background-color: yellow;
 }
-.btn {
+.btn-one, .btn-two {
     font-size: 28px;
-    font-family: Helvetica, Times New Roman, sans-serif;
+    font-family: Helvetica, Times New Roman,sans-serif;
 }
